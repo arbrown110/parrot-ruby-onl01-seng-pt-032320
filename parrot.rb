@@ -1,3 +1,3 @@
-def parrot
-  puts "squawk!"
+def parrot(String)
+  puts "Squawk!"
 end
